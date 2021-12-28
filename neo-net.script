@@ -1,0 +1,5 @@
+while (true) {
+    hack('neo-net');
+    grow('neo-net');
+    weaken('neo-net');
+}

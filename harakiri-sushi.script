@@ -1,0 +1,5 @@
+while (true) {
+	hack('harakiri-sushi');
+	grow('harakiri-sushi');
+	weaken('harakiri-sushi');
+}

@@ -1,0 +1,5 @@
+while (true) {
+	hack('zer0');
+	grow('zer0');
+	weaken('zer0');
+}

@@ -1,0 +1,5 @@
+while (true) {
+	hack('iron-gym');
+	grow('iron-gym');
+	weaken('iron-gym');
+}

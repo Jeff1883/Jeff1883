@@ -1,0 +1,5 @@
+while (true) {
+    hack('nectar-net');
+    grow('nectar-net');
+    weaken('nectar-net');
+}

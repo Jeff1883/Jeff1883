@@ -1,0 +1,5 @@
+while (true) {
+    hack('avmnite-02h');
+    grow('avmnite-02h');
+    weaken('avmnite-02h');
+}
