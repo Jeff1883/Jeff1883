@@ -1,0 +1,5 @@
+while (true) {
+    hack('comptek');
+    grow('comptek');
+    weaken('comptek');
+}
