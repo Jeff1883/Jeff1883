@@ -1,0 +1,5 @@
+while (true) {
+    hack('the-hub');
+    grow('the-hub');
+    weaken('the-hub');
+}
