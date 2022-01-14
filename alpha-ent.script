@@ -1,0 +1,5 @@
+while (true) {
+    hack('alpha-ent');
+    grow('alpha-ent');
+    weaken('alpha-ent');
+}
