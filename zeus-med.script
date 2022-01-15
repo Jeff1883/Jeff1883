@@ -1,0 +1,5 @@
+while (true) {
+    hack('zeus-med');
+    grow('zeus-med');
+    weaken('zeus-med');
+}

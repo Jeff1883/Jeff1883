@@ -1,0 +1,5 @@
+while (true) {
+    hack('galactic-cyber');
+    grow('galactic-cyber');
+    weaken('galactic-cyber');
+}

@@ -1,0 +1,5 @@
+while (true) {
+    hack('defcomm');
+    grow('defcomm');
+    weaken('defcomm');
+}

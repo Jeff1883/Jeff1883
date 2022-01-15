@@ -1,0 +1,5 @@
+while (true) {
+    hack('global-pharm');
+    grow('global-pharm');
+    weaken('global-pharm');
+}

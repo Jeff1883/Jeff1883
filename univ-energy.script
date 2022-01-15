@@ -1,0 +1,5 @@
+while (true) {
+    hack('univ-energy');
+    grow('univ-energy');
+    weaken('univ-energy');
+}

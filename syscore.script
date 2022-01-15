@@ -1,0 +1,5 @@
+while (true) {
+    hack('syscore');
+    grow('syscore');
+    weaken('syscore');
+}

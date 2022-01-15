@@ -1,0 +1,5 @@
+while (true) {
+    hack('rho-construction');
+    grow('rho-construction');
+    weaken('rho-construction');
+}

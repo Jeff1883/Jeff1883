@@ -1,0 +1,5 @@
+while (true) {
+    hack('aevum-police');
+    grow('aevum-police');
+    weaken('aevum-police');
+}

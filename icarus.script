@@ -1,0 +1,5 @@
+while (true) {
+    hack('icarus');
+    grow('icarus');
+    weaken('icarus');
+}

@@ -1,0 +1,5 @@
+while (true) {
+    hack('millenium-fitness');
+    grow('millenium-fitness');
+    weaken('millenium-fitness');
+}
